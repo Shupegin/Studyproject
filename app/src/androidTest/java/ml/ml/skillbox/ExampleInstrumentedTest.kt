@@ -1,4 +1,4 @@
-package studyproject.studyproject.Studyproject
+package ml.ml.skillbox
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("studyproject.studyproject.Studyproject", appContext.packageName)
+        assertEquals("ml.ml.skillbox", appContext.packageName)
     }
 }

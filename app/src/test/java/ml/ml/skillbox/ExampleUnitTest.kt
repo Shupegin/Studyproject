@@ -1,4 +1,4 @@
-package studyproject.studyproject.Studyproject
+package ml.ml.skillbox
 
 import org.junit.Test
 
